@@ -1,3 +1,6 @@
+# Generative AI
+
+```bash
 # Create virtual environment
 python -m venv venv
 
@@ -33,3 +36,4 @@ pip install uvicorn
 
 # Start FastAPI Server
 uvicorn ollama_api:app --port 8000
+```
